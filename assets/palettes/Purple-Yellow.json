@@ -1,0 +1,8 @@
+{
+    "name":   "Purple-Yellow",
+    "start":  { "h": 320, "C": 60, "L": 30 },
+    "end":    { "h":  80, "C": 20, "L": 95 },
+    "powerC": 0.7,
+    "powerL": 1.3,
+    "Cmax":   65
+}

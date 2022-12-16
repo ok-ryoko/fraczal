@@ -1,0 +1,8 @@
+{
+    "name":   "SunsetDark",
+    "start":  { "h": -35, "C": 55, "L": 30 },
+    "end":    { "h":  50, "C": 60, "L": 90 },
+    "powerC": 1.2,
+    "powerL": 1.0,
+    "Cmax":   120
+}

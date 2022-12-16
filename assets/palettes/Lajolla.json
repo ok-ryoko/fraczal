@@ -1,0 +1,8 @@
+{
+    "name":   "Lajolla",
+    "start":  { "h":  90, "C": 40, "L": 99 },
+    "end":    { "h": -20, "C":  5, "L":  5 },
+    "powerC": 0.7,
+    "powerL": 0.8,
+    "Cmax":   100
+}

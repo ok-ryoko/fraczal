@@ -1,0 +1,7 @@
+{
+    "name":   "Light Grays",
+    "start":  { "h": 0, "C": 0, "L": 30 },
+    "end":    { "h": 0, "C": 0, "L": 90 },
+    "powerC": 1.5,
+    "powerL": 1.5
+}

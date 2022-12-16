@@ -1,0 +1,7 @@
+{
+    "name":   "Purple-Blue",
+    "start":  { "h": 300, "C": 60, "L": 25 },
+    "end":    { "h": 200, "C":  0, "L": 95 },
+    "powerC": 0.7,
+    "powerL": 1.3
+}

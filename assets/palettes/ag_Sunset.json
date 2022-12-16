@@ -1,0 +1,8 @@
+{
+    "name":   "ag_Sunset",
+    "start":  { "h": -85, "C": 70, "L": 25 },
+    "end":    { "h":  70, "C": 45, "L": 85 },
+    "powerC": 0.6,
+    "powerL": 1.0,
+    "Cmax":   105
+}

@@ -1,0 +1,7 @@
+{
+    "name":   "Red-Yellow",
+    "start":  { "h": 10, "C": 80, "L": 25 },
+    "end":    { "h": 85, "C": 10, "L": 95 },
+    "powerC": 0.4,
+    "powerL": 1.3
+}

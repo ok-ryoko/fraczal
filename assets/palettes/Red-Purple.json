@@ -1,0 +1,7 @@
+{
+    "name":   "Red-Purple",
+    "start":  { "h":  10, "C": 80, "L": 25 },
+    "end":    { "h": -80, "C":  5, "L": 95 },
+    "powerC": 0.7,
+    "powerL": 1.3
+}

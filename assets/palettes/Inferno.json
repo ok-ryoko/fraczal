@@ -1,0 +1,8 @@
+{
+    "name":   "Inferno",
+    "start":  { "h": -100, "C":  0, "L":  1 },
+    "end":    { "h":   85, "C": 65, "L": 98 },
+    "powerC": 1.1,
+    "powerL": 0.9,
+    "Cmax":   120
+}

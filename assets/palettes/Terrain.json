@@ -1,0 +1,7 @@
+{
+    "name":   "Terrain",
+    "start":  { "h": 130, "C": 80, "L": 60 },
+    "end":    { "h":   0, "C":  0, "L": 95 },
+    "powerC": 0.1,
+    "powerL": 1.0
+}
